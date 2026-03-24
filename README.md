@@ -337,7 +337,7 @@ python 模拟对话数据/generate_detailed_interviews.py
 ```bibtex
 @mastersthesis{jiang2026间歇性，
   title={公共图书馆 AI 虚拟馆员用户间歇性中辍行为形成机理研究},
-  author={姜，子溪},
+  author={江，子曦},
   year={2026},
   school={待定},
   note={GitHub 仓库：https://github.com/YichuanAlex/A_Study_on_the_Formation_Mechanism_of_Intermittent_User_Discontinuation_Behavior_Regarding_AI_Virtua}
